@@ -1,9 +1,11 @@
-# Telegram Bot Base
+# Telegram Deal Tracker
 
-A Telegram Bot / Utility project created by **Amex**.
+<p align="center">
+  <b>Bot infrastructure for handling deal confirmations, stats tracking, and admin controls.</b>
+</p>
 
 ## 🚀 Overview
-This repository contains automated tools and systems designed for high-performance messaging and bot interactions.
+This project is part of a professional portfolio of high-performance Telegram bots and web applications. It demonstrates advanced integrations, modern frameworks, and robust architecture.
 
 ## 📫 Contact
-Reach out to me on **[Telegram (@exiff)](https://t.me/exiff)**.
+Developed and maintained by **[Amex](https://t.me/exiff)**.
